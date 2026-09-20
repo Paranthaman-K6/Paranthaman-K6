@@ -39,8 +39,8 @@ jobs:
               const lang = r.language || 'code';
               const desc = r.description || 'No description yet';
               const pushed = new Date(r.pushed_at).toISOString().split('T')[0];
-              const langBadge = `![${lang}](${badge(lang, '0066ff', langLogo(lang))})`;
-              const stars = `![stars](https://img.shields.io/github/stars/${username}/${r.name}?style=flat-square&color=0066ff)`;
+              const langBadge = `![${lang}](${badge(lang, '111111', langLogo(lang))})`;
+              const stars = `![stars](https://img.shields.io/github/stars/${username}/${r.name}?style=flat-square&color=111111)`;
               return `- **[${r.name}](${r.html_url})** ${langBadge} ${stars} — ${desc} \n  <sub>Updated ${pushed} • ${r.homepage ? `[Live Demo](${r.homepage}) • ` : ''}[Repo](${r.html_url})</sub>`;
             }).join('\n');
             const fs = require('fs');
