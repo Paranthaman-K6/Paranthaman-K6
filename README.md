@@ -72,8 +72,6 @@
 
 </div>
 
-> Stats card and streak are live SVGs. Replaces the retired stats / top-languages / activity-graph embeds that stopped rendering.
-
 ---
 
 ## Professional Principle
