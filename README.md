@@ -20,10 +20,10 @@
 
 ### About Me
 
-- Basic **Data Structures**, Intermediate in **Java, C, C++, Python**
-- Video Editor + Student & Learner passionate about technology and coding
-- Working on **RailBlock AI** (`railblock-ai`) and a **Waste Management System** (`waste-managment-system`) — see Projects below
-- Practicing DSA on LeetCode & HackerRank — see Coding Profiles below
+- Student & Learner passionate about technology, coding, and creative media
+- Intermediate in **Java, C, C++, Python** | Basic in **Data Structures & Algorithms**
+- Intermediate **Video Editor** — storytelling through edits
+- Practicing DSA on [LeetCode](https://leetcode.com/u/paranthamank/) & [HackerRank](https://www.hackerrank.com/profile/paranthamanK6)
 - Exploring **VibeCoding** and AI-assisted development workflows
 - Ask me about **C, C++, Java, Python, Video Editing**
 - Fun fact: I believe **code is poetry**
