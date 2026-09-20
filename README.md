@@ -13,8 +13,6 @@
 
 ---
 
-![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=616161&center=false&vCenter=true&multiline=true&repeat=true&width=600&lines=$+whoami;paranthaman-k+--+student+%26+learner;$+cat+focus.txt;Intermediate:+Java,+C,+C++,+Python;Basic:+Data+Structures+%26+Algorithms;$+ls+~%2Fskills;c%2F+cpp%2F+java%2F+python%2F+video-editing%2F;$+echo+$STATUS;Falling+and+Climbing)
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=c" title="C — Intermediate" alt="C" width="48" />
