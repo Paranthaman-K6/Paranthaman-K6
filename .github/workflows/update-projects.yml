@@ -41,21 +41,22 @@ jobs:
               const map = { Python: 'python', TypeScript: 'typescript', JavaScript: 'javascript', Java: 'openjdk', 'C++': 'cplusplus', C: 'c' };
               return map[lang] || 'github';
             };
+            const header = `| Project | Language | Stars | Updated | Links |\n|---|---|---|---|---|`;
             const rows = filtered.map(r => {
               const lang = r.language || 'code';
-              const desc = r.description || 'No description yet';
               const pushed = new Date(r.pushed_at).toISOString().split('T')[0];
               const title = pretty(r.name);
               const langBadge = `![${lang}](${badge(lang, '111111', langLogo(lang))})`;
               const stars = `![stars](https://img.shields.io/github/stars/${username}/${r.name}?style=flat-square&color=111111)`;
-              return `- **[${title}](${r.html_url})** \`${r.name}\` ${langBadge} ${stars} — ${desc} \n  <sub>Updated ${pushed} • ${r.homepage ? `[Live Demo](${r.homepage}) • ` : ''}[Repo](${r.html_url})</sub>`;
+              const links = `${r.homepage ? `[Live Demo](${r.homepage}) ` : ''}[Repo](${r.html_url})`;
+              return `| [${title}](${r.html_url}) \`${r.name}\` | ${langBadge} | ${stars} | ${pushed} | ${links} |`;
             }).join('\n');
             const fs = require('fs');
             let readme = fs.readFileSync('README.md', 'utf8');
             const start = '<!-- PROJECTS:START -->';
             const end = '<!-- PROJECTS:END -->';
             const ts = new Date().toISOString().split('T')[0];
-            const block = `${start}\n${rows}\n\n<sub>Auto-updated ${ts} • sorted by most recently pushed • excludes forks and profile repo</sub>\n${end}`;
+            const block = `${start}\n${header}\n${rows}\n\n<sub>Auto-updated ${ts} • excludes forks and profile repo</sub>\n${end}`;
             const re = new RegExp(`${start}[\\s\\S]*?${end}`, 'm');
             if (!re.test(readme)) throw new Error('PROJECTS markers not found');
             readme = readme.replace(re, block);
