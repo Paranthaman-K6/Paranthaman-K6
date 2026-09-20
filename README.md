@@ -21,7 +21,7 @@
 ### About Me
 
 - Student & Learner passionate about technology and coding
-- Working on **RAILBLOCK_AI** and a **waste management system** — see Projects below
+- Working on **RailBlock AI** (`railblock-ai`) and a **Waste Management System** (`waste-managment-system`) — see Projects below
 - Learning **data structures & algorithms** in C, C++ and Java
 - Exploring **VibeCoding** and AI-assisted development workflows
 - Ask me about **C, C++, Java, Python, TypeScript**
@@ -67,11 +67,11 @@
 > This section auto-updates every 6 hours, sorted by most recently pushed. Pin cards below are live — stars, forks, language update instantly.
 
 <!-- PROJECTS:START -->
-- **[railblock-ai](https://github.com/Paranthaman-K6/railblock-ai)** ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white) ![stars](https://img.shields.io/github/stars/Paranthaman-K6/railblock-ai?style=flat-square&color=111111) — No description yet 
+- **[RailBlock AI](https://github.com/Paranthaman-K6/railblock-ai)** `railblock-ai` ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white) ![stars](https://img.shields.io/github/stars/Paranthaman-K6/railblock-ai?style=flat-square&color=111111) — No description yet 
   <sub>Updated 2026-09-20 • [Live Demo](https://railblock-ai-gamma.vercel.app) • [Repo](https://github.com/Paranthaman-K6/railblock-ai)</sub>
-- **[waste-managment-system](https://github.com/Paranthaman-K6/waste-managment-system)** ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white) ![stars](https://img.shields.io/github/stars/Paranthaman-K6/waste-managment-system?style=flat-square&color=111111) — No description yet 
+- **[Waste Management System](https://github.com/Paranthaman-K6/waste-managment-system)** `waste-managment-system` ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white) ![stars](https://img.shields.io/github/stars/Paranthaman-K6/waste-managment-system?style=flat-square&color=111111) — No description yet 
   <sub>Updated 2026-09-20 • [Repo](https://github.com/Paranthaman-K6/waste-managment-system)</sub>
-- **[AI-Automated-Blogger](https://github.com/Paranthaman-K6/AI-Automated-Blogger)** ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white) ![stars](https://img.shields.io/github/stars/Paranthaman-K6/AI-Automated-Blogger?style=flat-square&color=111111) — No description yet 
+- **[AI Automated Blogger](https://github.com/Paranthaman-K6/AI-Automated-Blogger)** `AI-Automated-Blogger` ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white) ![stars](https://img.shields.io/github/stars/Paranthaman-K6/AI-Automated-Blogger?style=flat-square&color=111111) — No description yet 
   <sub>Updated 2026-09-15 • [Repo](https://github.com/Paranthaman-K6/AI-Automated-Blogger)</sub>
 
 <sub>Auto-updated 2026-09-20 • sorted by most recently pushed • excludes forks and profile repo</sub>
