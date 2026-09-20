@@ -1,12 +1,33 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2D2D2D,100:111111&height=200&section=header&text=Paranthaman%20K&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Student%20%7C%20Developer%20%7C%20Video%20Editor&descSize=16&descAlignY=55)](https://github.com/Paranthaman-K6)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2D2D2D,100:111111&height=200&section=header&text=Paranthaman%20K&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Student%20%7C%20Developer%20%7C%20Video%20Editor&descSize=16&descAlignY=55)
 
-[![Typing](https://readme-typing-svg.demolab.com?font=DejaVu+Sans&weight=600&size=22&pause=1000&color=616161&center=true&vCenter=true&width=500&lines=Student+%26+Learner;Intermediate+in+Java,+C,+C++,+Python;Basic+in+Data+Structures;Video+Editor)](https://github.com/Paranthaman-K6)
+![Typing](https://readme-typing-svg.demolab.com?font=DejaVu+Sans&weight=600&size=22&pause=1000&color=616161&center=true&vCenter=true&width=500&lines=Student+%26+Learner;Intermediate+in+Java,+C,+C++,+Python;Basic+in+Data+Structures;Video+Editor;Status:+Falling+and+Climbing)
 
-[![Views](https://komarev.com/ghpvc/?username=Paranthaman-K6&label=Profile%20Views&color=2D2D2D&style=for-the-badge)](https://github.com/Paranthaman-K6)
-[![Followers](https://img.shields.io/github/followers/Paranthaman-K6?style=for-the-badge&color=111111&labelColor=2D2D2D&logo=github&logoColor=white)](https://github.com/Paranthaman-K6?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Paranthaman-K6?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=111111&labelColor=2D2D2D&logo=github&logoColor=white)](https://github.com/Paranthaman-K6?tab=stars)
+![Views](https://komarev.com/ghpvc/?username=Paranthaman-K6&label=Profile%20Views&color=2D2D2D&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Paranthaman-K6?style=for-the-badge&color=111111&labelColor=2D2D2D&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Paranthaman-K6?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=111111&labelColor=2D2D2D&logo=github&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Falling_and_Climbing-2D2D2D?style=for-the-badge)
+
+</div>
+
+---
+
+```sh
+$ whoami
+paranthaman-k — student & learner
+$ cat focus.txt
+Intermediate: Java, C, C++, Python | Basic: Data Structures & Algorithms
+$ ls ~/skills
+c/  cpp/  java/  python/  video-editing/
+```
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c" title="C — Intermediate" alt="C" width="48" />
+<img src="https://skillicons.dev/icons?i=cpp" title="C++ — Intermediate" alt="C++" width="48" />
+<img src="https://skillicons.dev/icons?i=java" title="Java — Intermediate" alt="Java" width="48" />
+<img src="https://skillicons.dev/icons?i=py" title="Python — Intermediate" alt="Python" width="48" />
 
 </div>
 
@@ -27,18 +48,11 @@
 
 ## Skills
 
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,react,nodejs,git,github,vercel&theme=dark)](https://skillicons.dev)
-
-</div>
-
 | Skill | Proficiency |
 |---|---|
 | Java, C, C++, Python | Intermediate |
 | Data Structures & Algorithms | Basic |
 | Video Editing | Intermediate |
-| TypeScript, JavaScript, HTML, CSS, React, Node.js, Git, Vercel | Working knowledge |
 
 ---
 
@@ -55,20 +69,21 @@
 
 </div>
 
+> LeetCode card is live (solved count + heatmap). HackerRank has no public card API — use the button above for the live profile.
+
 ---
 
 ## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Paranthaman-K6&show_icons=true&title_color=FFFFFF&icon_color=9E9E9E&text_color=FFFFFF&bg_color=111111&border_color=2D2D2D&border_radius=10" width="400" alt="GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paranthaman-K6&theme=github_dark" width="100%" alt="GitHub profile summary" />
+
 <img src="https://streak-stats.demolab.com?user=Paranthaman-K6&background=111111&ring=FFFFFF&fire=9E9E9E&currStreakNum=FFFFFF&sideNums=C6C6C6&currStreakLabel=9E9E9E&sideLabels=9E9E9E&dates=C6C6C6&border=2D2D2D&stroke=2D2D2D" width="400" alt="GitHub streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paranthaman-K6&layout=compact&langs_count=8&title_color=FFFFFF&text_color=FFFFFF&bg_color=111111&border_color=2D2D2D&border_radius=10" width="400" alt="Top languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Paranthaman-K6&bg_color=111111&color=FFFFFF&line=9E9E9E&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
-
 </div>
+
+> Stats card and streak are live SVGs. Replaces the retired stats / top-languages / activity-graph embeds that stopped rendering.
 
 ---
 
@@ -94,8 +109,8 @@
 
 <div align="center">
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2D2D2D,100:111111&height=120&section=footer)](https://github.com/Paranthaman-K6)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2D2D2D,100:111111&height=120&section=footer)
 
 </div>
 
-<!-- Theme: Theme Factory / Carbon Professional | #111111 #2D2D2D #9E9E9E #FFFFFF | No projects section per request | Professional tone, no games or jokes -->
+<!-- Theme: Theme Factory / Carbon Terminal | #111111 #2D2D2D #9E9E9E #FFFFFF | DejaVu Sans | Single combo stats card + working streak | Skills: C/C++/Java/Python Intermediate, DSA Basic, Video Editing | Status: Falling and Climbing -->
