@@ -21,7 +21,7 @@
 ### About Me
 
 - Student & Learner passionate about technology and coding
-- Working on **RAILBLOCK_AI** and a **waste management system** — see Featured Projects below
+- Working on **RAILBLOCK_AI** and a **waste management system** — see Projects below
 - Learning **data structures & algorithms** in C, C++ and Java
 - Exploring **VibeCoding** and AI-assisted development workflows
 - Ask me about **C, C++, Java, Python, TypeScript**
@@ -62,43 +62,37 @@
 
 ---
 
-### Featured Projects
+### Projects — Dynamic, always fresh
 
-<p>
-  <a href="https://github.com/Paranthaman-K6/RAILBLOCK_AI">
-    <img src="https://img.shields.io/github/stars/Paranthaman-K6/RAILBLOCK_AI?style=for-the-badge&color=0066ff&labelColor=1e1e1e&logo=github&logoColor=white" alt="RAILBLOCK_AI stars" />
+> This section auto-updates every 6 hours, sorted by most recently pushed. Pin cards below are live — stars, forks, language update instantly.
+
+<!-- PROJECTS:START -->
+- **[railblock-ai](https://github.com/Paranthaman-K6/railblock-ai)** ![Python](https://img.shields.io/badge/Python-0066ff?style=flat-square&logo=python&logoColor=white) ![stars](https://img.shields.io/github/stars/Paranthaman-K6/railblock-ai?style=flat-square&color=0066ff) — No description yet 
+  <sub>Updated 2026-09-20 • [Live Demo](https://railblock-ai-gamma.vercel.app) • [Repo](https://github.com/Paranthaman-K6/railblock-ai)</sub>
+- **[waste-managment-system](https://github.com/Paranthaman-K6/waste-managment-system)** ![TypeScript](https://img.shields.io/badge/TypeScript-0066ff?style=flat-square&logo=typescript&logoColor=white) ![stars](https://img.shields.io/github/stars/Paranthaman-K6/waste-managment-system?style=flat-square&color=0066ff) — No description yet 
+  <sub>Updated 2026-09-20 • [Repo](https://github.com/Paranthaman-K6/waste-managment-system)</sub>
+- **[AI-Automated-Blogger](https://github.com/Paranthaman-K6/AI-Automated-Blogger)** ![JavaScript](https://img.shields.io/badge/JavaScript-0066ff?style=flat-square&logo=javascript&logoColor=white) ![stars](https://img.shields.io/github/stars/Paranthaman-K6/AI-Automated-Blogger?style=flat-square&color=0066ff) — No description yet 
+  <sub>Updated 2026-09-15 • [Repo](https://github.com/Paranthaman-K6/AI-Automated-Blogger)</sub>
+
+<sub>Auto-updated 2026-09-20 • sorted by most recently pushed • excludes forks and profile repo</sub>
+<!-- PROJECTS:END -->
+
+<!-- LAST-UPDATED -->Last auto-update: 2026-09-20<!-- /LAST-UPDATED -->
+
+<p align="center">
+  <a href="https://github.com/Paranthaman-K6/railblock-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Paranthaman-K6&repo=railblock-ai&title_color=0066ff&icon_color=00ffff&text_color=ffffff&bg_color=1e1e1e&border_color=0066ff&border_radius=10" width="49%" alt="railblock-ai pin" />
   </a>
-  <a href="https://github.com/Paranthaman-K6/RAILBLOCK_AI">
-    <img src="https://img.shields.io/github/forks/Paranthaman-K6/RAILBLOCK_AI?style=for-the-badge&color=0066ff&labelColor=1e1e1e&logo=github&logoColor=white" alt="RAILBLOCK_AI forks" />
-  </a>
-  <a href="https://github.com/Paranthaman-K6/RAILBLOCK_AI">
-    <img src="https://img.shields.io/github/languages/top/Paranthaman-K6/RAILBLOCK_AI?style=for-the-badge&color=0066ff" alt="RAILBLOCK_AI top language" />
-  </a>
-  <a href="https://railblock-ai-gamma.vercel.app">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2Frailblock-ai-gamma.vercel.app&style=for-the-badge&label=live%20demo&color=00ffff&labelColor=1e1e1e" alt="RAILBLOCK_AI live demo status" />
+  <a href="https://github.com/Paranthaman-K6/waste-managment-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Paranthaman-K6&repo=waste-managment-system&title_color=0066ff&icon_color=00ffff&text_color=ffffff&bg_color=1e1e1e&border_color=0066ff&border_radius=10" width="49%" alt="waste pin" />
   </a>
 </p>
 
-- **[RAILBLOCK_AI](https://github.com/Paranthaman-K6/RAILBLOCK_AI)** (Python) — live at [railblock-ai-gamma.vercel.app](https://railblock-ai-gamma.vercel.app)
-
-<p>
-  <a href="https://github.com/Paranthaman-K6/waste-managment-system">
-    <img src="https://img.shields.io/github/stars/Paranthaman-K6/waste-managment-system?style=for-the-badge&color=0066ff&labelColor=1e1e1e&logo=github&logoColor=white" alt="waste management stars" />
-  </a>
-  <a href="https://github.com/Paranthaman-K6/waste-managment-system">
-    <img src="https://img.shields.io/github/forks/Paranthaman-K6/waste-managment-system?style=for-the-badge&color=0066ff&labelColor=1e1e1e&logo=github&logoColor=white" alt="waste management forks" />
-  </a>
-  <a href="https://github.com/Paranthaman-K6/waste-managment-system">
-    <img src="https://img.shields.io/github/languages/top/Paranthaman-K6/waste-managment-system?style=for-the-badge&color=0066ff" alt="waste management top language" />
-  </a>
-  <a href="https://github.com/Paranthaman-K6/waste-managment-system">
-    <img src="https://img.shields.io/github/license/Paranthaman-K6/waste-managment-system?style=for-the-badge&color=0066ff" alt="waste management license" />
+<p align="center">
+  <a href="https://github.com/Paranthaman-K6/AI-Automated-Blogger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Paranthaman-K6&repo=AI-Automated-Blogger&title_color=0066ff&icon_color=00ffff&text_color=ffffff&bg_color=1e1e1e&border_color=0066ff&border_radius=10" width="49%" alt="blogger pin" />
   </a>
 </p>
-
-- **[waste-managment-system](https://github.com/Paranthaman-K6/waste-managment-system)** (TypeScript, MIT-licensed)
-
-- **[AI-Automated-Blogger](https://github.com/Paranthaman-K6/AI-Automated-Blogger)** (JavaScript)
 
 ---
 
