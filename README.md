@@ -20,11 +20,12 @@
 
 ### About Me
 
-- Student & Learner passionate about technology and coding
+- Basic **Data Structures**, Intermediate in **Java, C, C++, Python**
+- Video Editor + Student & Learner passionate about technology and coding
 - Working on **RailBlock AI** (`railblock-ai`) and a **Waste Management System** (`waste-managment-system`) — see Projects below
-- Learning **data structures & algorithms** in C, C++ and Java
+- Practicing DSA on LeetCode & HackerRank — see Coding Profiles below
 - Exploring **VibeCoding** and AI-assisted development workflows
-- Ask me about **C, C++, Java, Python, TypeScript**
+- Ask me about **C, C++, Java, Python, Video Editing**
 - Fun fact: I believe **code is poetry**
 - Open to collaborations and new opportunities
 
@@ -32,15 +33,22 @@
 
 ### Tech Stack
 
-**Languages**
+**Languages — Intermediate**
 
 <p>
-  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white" alt="C Intermediate" />
+  <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Intermediate" />
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Intermediate" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python Intermediate" />
   <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-2D2D2D?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+</p>
+
+**Core — Basic**
+
+<p>
+  <img src="https://img.shields.io/badge/Data_Structures-Basic-2D2D2D?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="Data Structures Basic" />
+  <img src="https://img.shields.io/badge/Algorithms-Basic-2D2D2D?style=for-the-badge&logo=codeforces&logoColor=white" alt="Algorithms Basic" />
 </p>
 
 **Frontend**
@@ -59,6 +67,36 @@
   <img src="https://img.shields.io/badge/GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
+
+**Creative**
+
+<p>
+  <img src="https://img.shields.io/badge/Video_Editing-Intermediate-111111?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Video Editing Intermediate" />
+</p>
+
+---
+
+### Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/paranthamank/">
+    <img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/paranthamanK6">
+    <img src="https://img.shields.io/badge/HackerRank-111111?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/paranthamank/">
+    <img src="https://leetcard.jacoblin.cool/paranthamank?theme=dark&font=DejaVu%20Sans&ext=heatmap" width="49%" alt="LeetCode paranthamank stats" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/paranthamanK6">
+    <img src="https://img.shields.io/badge/HackerRank-paranthamanK6-2D2D2D?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank paranthamanK6" />
+  </a>
+</p>
+
+> LeetCode card is live (solved count + heatmap auto-update). HackerRank has no official card API, so badge links to live profile. If LeetCode card shows unknown user, verify username `paranthamank` in URL.
 
 ---
 
@@ -150,6 +188,12 @@
   <a href="https://github.com/Paranthaman-K6">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://leetcode.com/u/paranthamank/">
+    <img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/paranthamanK6">
+    <img src="https://img.shields.io/badge/HackerRank-111111?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
 </p>
 
 ---
@@ -158,4 +202,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D2D2D,100:111111&height=120&section=footer" width="100%" alt="footer" />
 </p>
 
-<!-- Theme: Theme Factory / Carbon (custom) | Carbon Black #111111, Graphite #2D2D2D, Ash Gray #9E9E9E, Pure White #FFFFFF | Headers: DejaVu Sans Bold, Body: DejaVu Sans | Quotes: Linus Torvalds + Heath Ledger Joker -->
+<!-- Theme: Theme Factory / Carbon (custom) | Carbon Black #111111, Graphite #2D2D2D, Ash Gray #9E9E9E, Pure White #FFFFFF | Headers: DejaVu Sans Bold, Body: DejaVu Sans | Quotes: Linus Torvalds + Heath Ledger Joker | Skills: DS Basic, Java/C/C++/Python Intermediate, Video Editing -->
