@@ -131,7 +131,7 @@
 ### Dev Quote
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DejaVu+Sans&weight=600&size=18&duration=4000&pause=1000&color=616161&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.%22;%E2%80%94+Cory+House" alt="Dev quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=DejaVu+Sans&weight=600&size=18&duration=4000&pause=1500&color=616161&center=true&vCenter=true&multiline=true&repeat=true&width=700&lines=%22Talk+is+cheap.+Show+me+the+code.%22+%E2%80%94+Linus+Torvalds;Why+so+serious%3F+%E2%80%94+Heath+Ledger+as+Joker,+Dark+Knight;Software+is+like+sex:+it%27s+better+when+it%27s+free.+%E2%80%94+Linus+Torvalds" alt="Linus Torvalds and Joker quotes" />
 </p>
 
 <p align="center">
@@ -158,4 +158,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D2D2D,100:111111&height=120&section=footer" width="100%" alt="footer" />
 </p>
 
-<!-- Theme: Theme Factory / Carbon (custom) | Carbon Black #111111, Graphite #2D2D2D, Ash Gray #9E9E9E, Pure White #FFFFFF | Headers: DejaVu Sans Bold, Body: DejaVu Sans -->
+<!-- Theme: Theme Factory / Carbon (custom) | Carbon Black #111111, Graphite #2D2D2D, Ash Gray #9E9E9E, Pure White #FFFFFF | Headers: DejaVu Sans Bold, Body: DejaVu Sans | Quotes: Linus Torvalds + Heath Ledger Joker -->
