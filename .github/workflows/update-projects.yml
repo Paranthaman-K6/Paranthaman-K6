@@ -1,0 +1,61 @@
+name: Update dynamic projects
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/update-projects.yml
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update latest projects section
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const username = 'Paranthaman-K6';
+            const exclude = ['Paranthaman-K6'];
+            const { data: repos } = await github.rest.repos.listForUser({
+              username,
+              sort: 'pushed',
+              direction: 'desc',
+              per_page: 20
+            });
+            const filtered = repos.filter(r => !r.fork && !exclude.includes(r.name)).slice(0, 4);
+            const badge = (label, color, logo) => `https://img.shields.io/badge/${encodeURIComponent(label)}-${color}?style=flat-square&logo=${logo}&logoColor=white`;
+            const langLogo = (lang) => {
+              const map = { Python: 'python', TypeScript: 'typescript', JavaScript: 'javascript', Java: 'openjdk', 'C++': 'cplusplus', C: 'c' };
+              return map[lang] || 'github';
+            };
+            const rows = filtered.map(r => {
+              const lang = r.language || 'code';
+              const desc = r.description || 'No description yet';
+              const pushed = new Date(r.pushed_at).toISOString().split('T')[0];
+              const langBadge = `![${lang}](${badge(lang, '0066ff', langLogo(lang))})`;
+              const stars = `![stars](https://img.shields.io/github/stars/${username}/${r.name}?style=flat-square&color=0066ff)`;
+              return `- **[${r.name}](${r.html_url})** ${langBadge} ${stars} — ${desc} \n  <sub>Updated ${pushed} • ${r.homepage ? `[Live Demo](${r.homepage}) • ` : ''}[Repo](${r.html_url})</sub>`;
+            }).join('\n');
+            const fs = require('fs');
+            let readme = fs.readFileSync('README.md', 'utf8');
+            const start = '<!-- PROJECTS:START -->';
+            const end = '<!-- PROJECTS:END -->';
+            const ts = new Date().toISOString().split('T')[0];
+            const block = `${start}\n${rows}\n\n<sub>Auto-updated ${ts} • sorted by most recently pushed • excludes forks and profile repo</sub>\n${end}`;
+            const re = new RegExp(`${start}[\\s\\S]*?${end}`, 'm');
+            if (!re.test(readme)) throw new Error('PROJECTS markers not found');
+            readme = readme.replace(re, block);
+            readme = readme.replace(/<!-- LAST-UPDATED -->.*<!-- \/LAST-UPDATED -->/, `<!-- LAST-UPDATED -->Last auto-update: ${ts}<!-- /LAST-UPDATED -->`);
+            fs.writeFileSync('README.md', readme);
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: auto-update dynamic projects'
+          file_pattern: README.md
