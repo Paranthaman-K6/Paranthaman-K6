@@ -1,18 +1,18 @@
 <h1 align="center">
   <a href="https://github.com/Paranthaman-K6">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36454f,100:708090&height=200&section=header&text=Paranthaman%20K&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20%7C%20Learner%20%7C%20Developer&descSize=16&descAlignY=50&descAlign=50" width="100%" alt="Paranthaman K header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:00ffff&height=200&section=header&text=Paranthaman%20K&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20%7C%20Learner%20%7C%20Developer&descSize=16&descAlignY=55" width="100%" alt="Paranthaman K header" />
   </a>
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Paranthaman-K6&label=Profile%20Views&color=708090&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Paranthaman-K6?style=for-the-badge&color=36454f&labelColor=36454f&logo=github&logoColor=white" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Paranthaman-K6?style=for-the-badge&color=36454f&labelColor=36454f&logo=github&logoColor=white" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=Paranthaman-K6&label=Profile%20Views&color=0066ff&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Paranthaman-K6?style=for-the-badge&color=0066ff&labelColor=1e1e1e&logo=github&logoColor=white" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Paranthaman-K6?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0066ff&labelColor=1e1e1e&logo=github&logoColor=white" alt="GitHub stars" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Paranthaman-K6">
-    <img src="https://readme-typing-svg.demolab.com?font=DejaVu+Sans&weight=600&size=22&pause=1000&color=36454F&center=true&vCenter=true&width=500&lines=Student+%26+Learner;Building+projects+from+scratch;Exploring+VibeCoding+%26+AI;Open+to+collaboration" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=DejaVu+Sans&weight=600&size=22&pause=1000&color=0066FF&center=true&vCenter=true&width=500&lines=Student+%26+Learner;Building+projects+from+scratch;Exploring+VibeCoding+%2B+AI;Open+to+collaboration" alt="Typing intro" />
   </a>
 </p>
 
@@ -35,29 +35,29 @@
 **Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/C-36454f?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-36454f?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-36454f?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-36454f?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-36454f?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-36454f?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-0066ff?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-0066ff?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-0066ff?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-0066ff?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-0066ff?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-1e1e1e?style=for-the-badge&logo=javascript&logoColor=00ffff" alt="JavaScript" />
 </p>
 
 **Frontend**
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-36454f?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-36454f?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-36454f?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-1e1e1e?style=for-the-badge&logo=html5&logoColor=00ffff" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1e1e1e?style=for-the-badge&logo=css3&logoColor=00ffff" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-0066ff?style=for-the-badge&logo=react&logoColor=white" alt="React" />
 </p>
 
 **Backend & Tools**
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-36454f?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-36454f?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-36454f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-36454f?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Node.js-0066ff?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-1e1e1e?style=for-the-badge&logo=git&logoColor=00ffff" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-1e1e1e?style=for-the-badge&logo=github&logoColor=00ffff" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-0066ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ---
@@ -66,16 +66,16 @@
 
 <p>
   <a href="https://github.com/Paranthaman-K6/RAILBLOCK_AI">
-    <img src="https://img.shields.io/github/stars/Paranthaman-K6/RAILBLOCK_AI?style=for-the-badge&color=36454f&labelColor=36454f&logo=github&logoColor=white" alt="RAILBLOCK_AI stars" />
+    <img src="https://img.shields.io/github/stars/Paranthaman-K6/RAILBLOCK_AI?style=for-the-badge&color=0066ff&labelColor=1e1e1e&logo=github&logoColor=white" alt="RAILBLOCK_AI stars" />
   </a>
   <a href="https://github.com/Paranthaman-K6/RAILBLOCK_AI">
-    <img src="https://img.shields.io/github/forks/Paranthaman-K6/RAILBLOCK_AI?style=for-the-badge&color=36454f&labelColor=36454f&logo=github&logoColor=white" alt="RAILBLOCK_AI forks" />
+    <img src="https://img.shields.io/github/forks/Paranthaman-K6/RAILBLOCK_AI?style=for-the-badge&color=0066ff&labelColor=1e1e1e&logo=github&logoColor=white" alt="RAILBLOCK_AI forks" />
   </a>
   <a href="https://github.com/Paranthaman-K6/RAILBLOCK_AI">
-    <img src="https://img.shields.io/github/languages/top/Paranthaman-K6/RAILBLOCK_AI?style=for-the-badge&color=36454f" alt="RAILBLOCK_AI top language" />
+    <img src="https://img.shields.io/github/languages/top/Paranthaman-K6/RAILBLOCK_AI?style=for-the-badge&color=0066ff" alt="RAILBLOCK_AI top language" />
   </a>
   <a href="https://railblock-ai-gamma.vercel.app">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2Frailblock-ai-gamma.vercel.app&style=for-the-badge&label=live%20demo&color=36454f" alt="RAILBLOCK_AI live demo status" />
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Frailblock-ai-gamma.vercel.app&style=for-the-badge&label=live%20demo&color=00ffff&labelColor=1e1e1e" alt="RAILBLOCK_AI live demo status" />
   </a>
 </p>
 
@@ -83,35 +83,69 @@
 
 <p>
   <a href="https://github.com/Paranthaman-K6/waste-managment-system">
-    <img src="https://img.shields.io/github/stars/Paranthaman-K6/waste-managment-system?style=for-the-badge&color=36454f&labelColor=36454f&logo=github&logoColor=white" alt="waste management system stars" />
+    <img src="https://img.shields.io/github/stars/Paranthaman-K6/waste-managment-system?style=for-the-badge&color=0066ff&labelColor=1e1e1e&logo=github&logoColor=white" alt="waste management stars" />
   </a>
   <a href="https://github.com/Paranthaman-K6/waste-managment-system">
-    <img src="https://img.shields.io/github/forks/Paranthaman-K6/waste-managment-system?style=for-the-badge&color=36454f&labelColor=36454f&logo=github&logoColor=white" alt="waste management system forks" />
+    <img src="https://img.shields.io/github/forks/Paranthaman-K6/waste-managment-system?style=for-the-badge&color=0066ff&labelColor=1e1e1e&logo=github&logoColor=white" alt="waste management forks" />
   </a>
   <a href="https://github.com/Paranthaman-K6/waste-managment-system">
-    <img src="https://img.shields.io/github/languages/top/Paranthaman-K6/waste-managment-system?style=for-the-badge&color=36454f" alt="waste management system top language" />
+    <img src="https://img.shields.io/github/languages/top/Paranthaman-K6/waste-managment-system?style=for-the-badge&color=0066ff" alt="waste management top language" />
   </a>
   <a href="https://github.com/Paranthaman-K6/waste-managment-system">
-    <img src="https://img.shields.io/github/license/Paranthaman-K6/waste-managment-system?style=for-the-badge&color=36454f" alt="waste management system license" />
+    <img src="https://img.shields.io/github/license/Paranthaman-K6/waste-managment-system?style=for-the-badge&color=0066ff" alt="waste management license" />
   </a>
 </p>
 
 - **[waste-managment-system](https://github.com/Paranthaman-K6/waste-managment-system)** (TypeScript, MIT-licensed)
+
+- **[AI-Automated-Blogger](https://github.com/Paranthaman-K6/AI-Automated-Blogger)** (JavaScript)
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Paranthaman-K6&background=ffffff&ring=36454f&fire=708090&currStreakNum=36454f&sideNums=36454f&currStreakLabel=708090&sideLabels=708090&dates=708090&border=d3d3d3" alt="GitHub streak" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Paranthaman-K6&show_icons=true&title_color=0066ff&icon_color=00ffff&text_color=ffffff&bg_color=1e1e1e&border_color=0066ff&border_radius=10" width="49%" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=Paranthaman-K6&background=1e1e1e&ring=0066ff&fire=00ffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffff&sideLabels=00ffff&dates=ffffff&border=0066ff&stroke=0066ff" width="49%" alt="GitHub streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paranthaman-K6&layout=compact&langs_count=8&title_color=0066ff&text_color=ffffff&bg_color=1e1e1e&border_color=0066ff&border_radius=10" width="49%" alt="Top languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Paranthaman-K6&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=4" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paranthaman-K6&bg_color=1e1e1e&color=ffffff&line=00ffff&point=0066ff&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+</p>
+
+---
+
+### Contribution Game
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Paranthaman-K6/Paranthaman-K6/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Paranthaman-K6/Paranthaman-K6/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Paranthaman-K6/Paranthaman-K6/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
+  </picture>
+</p>
+
+> Snake animation is generated every 6 hours by `.github/workflows/snake.yml`. If it shows as broken, run the workflow once from Actions tab.
 
 ---
 
 ### Dev Quote
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DejaVu+Sans&weight=600&size=18&duration=4000&pause=1000&color=36454F&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.%22;%E2%80%94+Cory+House" alt="Dev quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=DejaVu+Sans&weight=600&size=18&duration=4000&pause=1000&color=0066FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.%22;%E2%80%94+Cory+House" alt="Dev quote" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&bgColor=1e1e1e" alt="Random dev joke" />
 </p>
 
 ---
@@ -120,14 +154,14 @@
 
 <p align="center">
   <a href="https://github.com/Paranthaman-K6">
-    <img src="https://img.shields.io/badge/GitHub-36454f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0066ff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:708090,100:36454f&height=120&section=footer" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:00ffff&height=120&section=footer" width="100%" alt="footer" />
 </p>
 
-<!-- Theme: Theme Factory / Modern Minimalist | Charcoal #36454f, Slate Gray #708090, Light Gray #d3d3d3, White #ffffff | Headers: DejaVu Sans Bold, Body: DejaVu Sans -->
+<!-- Theme: Theme Factory / Tech Innovation | Electric Blue #0066ff, Neon Cyan #00ffff, Dark Gray #1e1e1e, White #ffffff | Headers: DejaVu Sans Bold, Body: DejaVu Sans -->
