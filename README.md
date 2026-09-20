@@ -20,6 +20,11 @@
 <img src="https://skillicons.dev/icons?i=java" title="Java — Intermediate" alt="Java" width="48" />
 <img src="https://skillicons.dev/icons?i=py" title="Python — Intermediate" alt="Python" width="48" />
 
+![Tableau](https://img.shields.io/badge/Tableau-111111?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-111111?style=for-the-badge&logo=powerbi&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-111111?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2D2D2D?style=for-the-badge)
+
 </div>
 
 ---
@@ -30,10 +35,11 @@
 |---|---|
 | Background | Student and learner focused on software development and creative media |
 | Programming | Intermediate in **Java, C, C++, Python** — Basic in **Data Structures & Algorithms** |
+| Data | Intermediate in **Tableau, Power BI, SQL, Oracle SQL** — dashboards and database querying |
 | Creative | Intermediate **Video Editor** with focus on storytelling through edits |
 | Practice | Data Structures and Algorithms on [LeetCode](https://leetcode.com/u/paranthamank/) and [HackerRank](https://www.hackerrank.com/profile/paranthamanK6) |
 | Interests | AI-assisted development workflows and clean, maintainable code |
-| Contact | **C, C++, Java, Python, Video Editing** — open to collaboration |
+| Contact | **C, C++, Java, Python, SQL, Video Editing** — open to collaboration |
 
 ---
 
@@ -42,6 +48,8 @@
 | Skill | Proficiency |
 |---|---|
 | Java, C, C++, Python | Intermediate |
+| Tableau, Power BI | Intermediate |
+| SQL, Oracle SQL | Intermediate |
 | Data Structures & Algorithms | Basic |
 | Video Editing | Intermediate |
 
@@ -100,4 +108,4 @@
 
 </div>
 
-<!-- Theme: Theme Factory / Carbon Terminal | #111111 #2D2D2D #9E9E9E #FFFFFF | DejaVu Sans | Single combo stats card + working streak | Skills: C/C++/Java/Python Intermediate, DSA Basic, Video Editing | Status: Falling and Climbing -->
+<!-- Theme: Theme Factory / Carbon Terminal | #111111 #2D2D2D #9E9E9E #FFFFFF | DejaVu Sans | Single combo stats card + working streak | Skills: C/C++/Java/Python, Tableau/Power BI, SQL/Oracle SQL Intermediate, DSA Basic, Video Editing | Status: Falling and Climbing -->
