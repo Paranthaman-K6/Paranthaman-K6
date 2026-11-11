@@ -74,6 +74,20 @@
       "time": "O(n^2)"
     }
   },
+  "0029-divide-two-integers": {
+    "cpp": {
+      "approach": "repeated subtraction, n = quotient",
+      "space": "O(1)",
+      "time": "O(n)"
+    }
+  },
+  "0050-powx-n": {
+    "cpp": {
+      "approach": "linear recursion, paired multiplication",
+      "space": "O(n)",
+      "time": "O(n)"
+    }
+  },
   "0058-length-of-last-word": {
     "c": {
       "approach": "scan for last word start",
@@ -116,11 +130,53 @@
       "time": "O(n)"
     }
   },
+  "0206-reverse-linked-list": {
+    "cpp": {
+      "approach": "push values on stack, rewrite list",
+      "space": "O(n)",
+      "time": "O(n)"
+    }
+  },
+  "0231-power-of-two": {
+    "cpp": {
+      "approach": "repeated division by two",
+      "space": "O(1)",
+      "time": "O(log n)"
+    }
+  },
+  "0344-reverse-string": {
+    "c": {
+      "approach": "two-pointer swap",
+      "space": "O(1)",
+      "time": "O(n)"
+    }
+  },
+  "0415-add-strings": {
+    "cpp": {
+      "approach": "column addition with carry",
+      "space": "O(m+n)",
+      "time": "O(m+n)"
+    }
+  },
   "0485-max-consecutive-ones": {
     "c": {
       "approach": "single pass, count streak",
       "space": "O(1)",
       "time": "O(n)"
+    }
+  },
+  "0792-binary-search": {
+    "c": {
+      "approach": "binary search, midpoint compare",
+      "space": "O(1)",
+      "time": "O(log n)"
+    }
+  },
+  "0812-rotate-string": {
+    "cpp": {
+      "approach": "rotate one step, compare each shift",
+      "space": "O(1)",
+      "time": "O(n^2)"
     }
   },
   "1580-shuffle-the-array": {
