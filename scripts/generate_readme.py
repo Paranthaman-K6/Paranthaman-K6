@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Generate README.md and assets/progress.svg for this repository.
+"""Generate leetcode-solution.md and the generated SVG assets.
 
-Both files are generated artifacts: `.github/workflows/sync_leetcode.yml` runs
-this script after each LeetCode sync and commits the result. Edit this file,
-not the generated files.
+`README.md` is the hand-written profile and is never modified here. The files
+written by this script are artifacts: `.github/workflows/sync_leetcode.yml`
+runs it after each LeetCode sync and commits the result. Edit this file, not
+the generated files.
 
 Per-problem approach notes and Big-O figures are curated in
 `data/problems.json` (the LeetCode API does not provide them and the synced
@@ -21,13 +22,11 @@ from pathlib import Path
 from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parents[1]
-README = ROOT / "README.md"
+LEETCODE_FILE = ROOT / "leetcode-solution.md"
 BANNER = ROOT / "assets" / "banner.svg"
 PROGRESS = ROOT / "assets" / "progress.svg"
-SECTION_START = "<!-- LEETCODE:START -->"
-SECTION_END = "<!-- LEETCODE:END -->"
 
-REPOSITORY_URL = "https://github.com/Paranthaman-K6/leetcode-solutions"
+REPOSITORY_URL = "https://github.com/Paranthaman-K6/Paranthaman-K6"
 LEETCODE_URL = "https://leetcode.com"
 CARBON_BLACK = "111111"
 GRAPHITE = "2D2D2D"
@@ -277,7 +276,7 @@ def fetch_metadata(slugs):
         data = request_questions(payload, auth_headers if use_auth else headers)
 
         # An expired session makes LeetCode answer with empty data. Retry the
-        # batch anonymously so the README still gets real titles/difficulties.
+        # batch anonymously so the index still gets real titles/difficulties.
         if use_auth and not any(
             (data or {}).get(f"q{index}") for index in range(len(chunk))
         ):
@@ -623,13 +622,6 @@ def main():
         f"{difficulty_counts.get('Hard', 0)} hard"
     )
 
-    # When the README contains the markers, only that block is replaced, so the
-    # generator can own a section of a larger profile README.
-    existing = README.read_text(encoding="utf-8") if README.exists() else ""
-    embedded = SECTION_START in existing and SECTION_END in existing
-    progress_heading = "###" if embedded else "##"
-    problem_heading = "####" if embedded else "###"
-
     lines = [
         center([
             img(
@@ -656,11 +648,11 @@ def main():
             " · ".join(nav_links),
         ]),
         "",
-        f"{progress_heading} Progress",
+        "## Progress",
         "",
         center([img(PROGRESS_IMG, progress_alt, width="100%")]),
         "",
-        f"{progress_heading} Solutions",
+        "## Solutions",
         "",
     ]
 
@@ -675,7 +667,7 @@ def main():
 
         lines += [
             f'<a id="{anchor}"></a>',
-            f"{problem_heading} {heading} <sub>· {len(items)} {noun}</sub>",
+            f"### {heading} <sub>· {len(items)} {noun}</sub>",
             "",
             "| # | Problem | Time · Space | Runtime | Memory | Code |",
             "|---:|---|---|---|---|---|",
@@ -732,46 +724,36 @@ def main():
 
         lines.append("")
 
-    if not embedded:
-        lines += [
-            "---",
-            "",
-            center([
-                " ".join([
-                    img(
-                        shield(
-                            "LeetCode",
-                            LEETCODE_USERNAME,
-                            logo="leetcode",
-                            logo_color=CARBON_BLACK,
-                            color="FFFFFF",
-                        ),
-                        f"LeetCode profile: {LEETCODE_USERNAME}",
+    lines += [
+        "---",
+        "",
+        center([
+            " ".join([
+                img(
+                    shield(
+                        "LeetCode",
+                        LEETCODE_USERNAME,
+                        logo="leetcode",
+                        logo_color=CARBON_BLACK,
+                        color="FFFFFF",
                     ),
-                    img(
-                        shield(
-                            "GitHub",
-                            "leetcode-solutions",
-                            logo="github",
-                            color=GRAPHITE,
-                        ),
-                        "GitHub repository: leetcode-solutions",
+                    f"LeetCode profile: {LEETCODE_USERNAME}",
+                ),
+                img(
+                    shield(
+                        "GitHub",
+                        "Paranthaman-K6",
+                        logo="github",
+                        color=GRAPHITE,
                     ),
-                ]),
+                    "GitHub profile: Paranthaman-K6",
+                ),
             ]),
-            "",
-        ]
+        ]),
+        "",
+    ]
 
-    section = "\n".join(lines).strip("\n")
-
-    if embedded:
-        before, rest = existing.split(SECTION_START, 1)
-        _, after = rest.split(SECTION_END, 1)
-        updated = f"{before}{SECTION_START}\n{section}\n{SECTION_END}{after}"
-    else:
-        updated = section + "\n"
-
-    README.write_text(updated, encoding="utf-8")
+    LEETCODE_FILE.write_text("\n".join(lines).strip("\n") + "\n", encoding="utf-8")
 
 
 if __name__ == "__main__":
