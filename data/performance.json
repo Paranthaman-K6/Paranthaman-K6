@@ -1,0 +1,122 @@
+{
+  "0001-two-sum": {
+    "runtime": "33 ms",
+    "runtime_percentile": "44.58%",
+    "memory": "47.2 MB",
+    "memory_percentile": "41.16%"
+  },
+  "0002-add-two-numbers": {
+    "runtime": "0 ms",
+    "runtime_percentile": "100.00%",
+    "memory": "13.3 MB",
+    "memory_percentile": "83.88%"
+  },
+  "0003-longest-substring-without-repeating-characters": {
+    "runtime": "22 ms",
+    "runtime_percentile": "14.46%",
+    "memory": "9.5 MB",
+    "memory_percentile": "99.49%"
+  },
+  "0004-median-of-two-sorted-arrays": {
+    "runtime": "0 ms",
+    "runtime_percentile": "100.00%",
+    "memory": "11.9 MB",
+    "memory_percentile": "87.29%"
+  },
+  "0007-reverse-integer": {
+    "runtime": "0 ms",
+    "runtime_percentile": "100.00%",
+    "memory": "9.3 MB",
+    "memory_percentile": "49.14%"
+  },
+  "0009-palindrome-number": {
+    "runtime": "0 ms",
+    "runtime_percentile": "100.00%",
+    "memory": "8.8 MB",
+    "memory_percentile": "62.57%"
+  },
+  "0019-remove-nth-node-from-end-of-list": {
+    "runtime": "0 ms",
+    "runtime_percentile": "100.00%",
+    "memory": "10.2 MB",
+    "memory_percentile": "81.60%"
+  },
+  "0020-valid-parentheses": {
+    "runtime": "0 ms",
+    "runtime_percentile": "100.00%",
+    "memory": "8.7 MB",
+    "memory_percentile": "67.84%"
+  },
+  "0021-merge-two-sorted-lists": {
+    "runtime": "0 ms",
+    "runtime_percentile": "100.00%",
+    "memory": "11.6 MB",
+    "memory_percentile": "8.90%"
+  },
+  "0027-remove-element": {
+    "runtime": "0 ms",
+    "runtime_percentile": "100.00%",
+    "memory": "43.4 MB",
+    "memory_percentile": "61.13%"
+  },
+  "0058-length-of-last-word": {
+    "runtime": "0 ms",
+    "runtime_percentile": "100.00%",
+    "memory": "8.9 MB",
+    "memory_percentile": "16.33%"
+  },
+  "0061-rotate-list": {
+    "runtime": "0 ms",
+    "runtime_percentile": "100.00%",
+    "memory": "11.5 MB",
+    "memory_percentile": "33.45%"
+  },
+  "0066-plus-one": {
+    "runtime": "0 ms",
+    "runtime_percentile": "100.00%",
+    "memory": "10 MB",
+    "memory_percentile": "67.92%"
+  },
+  "0125-valid-palindrome": {
+    "runtime": "0 ms",
+    "runtime_percentile": "100.00%",
+    "memory": "9.3 MB",
+    "memory_percentile": "21.39%"
+  },
+  "0136-single-number": {
+    "runtime": "731 ms",
+    "runtime_percentile": "11.74%",
+    "memory": "10.2 MB",
+    "memory_percentile": "33.58%"
+  },
+  "0189-rotate-array": {
+    "runtime": "0 ms",
+    "runtime_percentile": "100.00%",
+    "memory": "27.4 MB",
+    "memory_percentile": "76.77%"
+  },
+  "0485-max-consecutive-ones": {
+    "runtime": "0 ms",
+    "runtime_percentile": "100.00%",
+    "memory": "13.1 MB",
+    "memory_percentile": "90.02%"
+  },
+  "1580-shuffle-the-array": {
+    "runtime": "12 ms",
+    "runtime_percentile": "72.80%",
+    "memory": "12.2 MB",
+    "memory_percentile": "92.26%"
+  },
+  "1894-merge-strings-alternately": {
+    "runtime": "0 ms",
+    "runtime_percentile": "100.00%",
+    "memory": "8.8 MB",
+    "memory_percentile": "40.76%"
+  },
+  "2058-concatenation-of-array": {
+    "runtime": "0 ms",
+    "runtime_percentile": "100.00%",
+    "memory": "15.1 MB",
+    "memory_percentile": "27.39%"
+  }
+}
